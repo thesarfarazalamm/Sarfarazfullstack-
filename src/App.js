@@ -692,7 +692,7 @@ const App = () => {
               <div className="relative aspect-square max-w-md mx-auto">
                 <div className="absolute inset-0 bg-indigo-500 rounded-[60px] rotate-6" />
                 <img 
-                  src="sarfaraz1" 
+                  src="/sarfaraz1.jpg" 
                   alt="Sarfaraz Ansari" 
                   className="absolute inset-0 w-full h-full object-cover rounded-[60px] -rotate-3 hover:rotate-0 transition-transform duration-500 border-8 border-white dark:border-gray-900 shadow-2xl"
                 />
